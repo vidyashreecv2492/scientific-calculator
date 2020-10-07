@@ -1,0 +1,2 @@
+# scientific-calculator
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/85e9bc575b434f308d912c1e53b91f8a)](https://app.codacy.com/gh/vidyashreecv2492/scientific-calculator?utm_source=github.com&utm_medium=referral&utm_content=vidyashreecv2492/scientific-calculator&utm_campaign=Badge_Grade)
