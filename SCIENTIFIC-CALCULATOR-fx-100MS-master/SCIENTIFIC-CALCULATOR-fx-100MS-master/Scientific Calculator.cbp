@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Scientific Calculator" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Scientific Calculator" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Scientific Calculator" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Determinant.h" />
+		<Unit filename="Temperature.h" />
+		<Unit filename="arcosine.h" />
+		<Unit filename="arcsine.h" />
+		<Unit filename="arctan.h" />
+		<Unit filename="cos.h" />
+		<Unit filename="exponent.h" />
+		<Unit filename="factorial.h" />
+		<Unit filename="hyperbolic cos.h" />
+		<Unit filename="hyperbolic sine.h" />
+		<Unit filename="ln(x).h" />
+		<Unit filename="maincalculator.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="matri_inverse.h" />
+		<Unit filename="matrice sum.h" />
+		<Unit filename="matrix_product.h" />
+		<Unit filename="matrix_transpose.h" />
+		<Unit filename="pause.h" />
+		<Unit filename="powerfunction.h" />
+		<Unit filename="sin.h" />
+		<Unit filename="tim.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

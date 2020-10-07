@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1461751719 source:c:\users\owner\desktop\computer campaign\c\color\messagelength\scientific calculator\main protion of calculator.c
+	<stdio.h>
+	"sin.h"
+	"cos.h"
+
+1462237906 c:\users\owner\desktop\computer campaign\c\color\messagelength\scientific calculator\sin.h
+	<stdio.h>
+
+1462246130 c:\users\owner\desktop\computer campaign\c\color\messagelength\scientific calculator\cos.h
+	<stdio.h>
+
+1462496640 source:c:\users\owner\desktop\computer campaign\c\color\messagelength\scientific calculator\maincalculator.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"sin.h"
+	"cos.h"
+	"powerfunction.h"
+	"factorial.h"
+	"ln(x).h"
+	"exponent.h"
+	"hyperbolic sine.h"
+	"hyperbolic cos.h"
+	"arcosine.h"
+	"Determinant.h"
+	"matrice sum.h"
+	"matrix_transpose.h"
+	"matrix_product.h"
+	"arcsine.h"
+	"arctan.h"
+	"tim.h"
+	"Temperature.h"
+	<stdio.h>
+
+1461810725 c:\users\owner\desktop\computer campaign\c\color\messagelength\scientific calculator\powerfunction.h
+	<stdio.h>
+
+1462469802 c:\users\owner\desktop\computer campaign\c\color\messagelength\scientific calculator\factorial.h
+	<stdio.h>
+	<stdint.h>
+
+1461808863 c:\users\owner\desktop\computer campaign\c\color\messagelength\scientific calculator\ln(x).h
+	<stdio.h>
+
+1461811453 c:\users\owner\desktop\computer campaign\c\color\messagelength\scientific calculator\exponent.h
+	<stdio.h>
+
+1461827559 c:\users\owner\desktop\computer campaign\c\color\messagelength\scientific calculator\hyperbolic sine.h
+	<stdio.h>
+
+1461828387 c:\users\owner\desktop\computer campaign\c\color\messagelength\scientific calculator\hyperbolic cos.h
+	<stdio.h>
+
+1462250992 c:\users\owner\desktop\computer campaign\c\color\messagelength\scientific calculator\arcosine.h
+	<stdio.h>
+
+1462234192 c:\users\owner\desktop\computer campaign\c\color\messagelength\scientific calculator\determinant.h
+	<stdio.h>
+
+1462420096 c:\users\owner\desktop\computer campaign\c\color\messagelength\scientific calculator\matrice sum.h
+
+1462403168 c:\users\owner\desktop\computer campaign\c\color\messagelength\scientific calculator\matrix_transpose.h
+	<stdio.h>
+
+1462251916 c:\users\owner\desktop\computer campaign\c\color\messagelength\scientific calculator\arcsine.h
+	<stdio.h>
+
+1462253784 c:\users\owner\desktop\computer campaign\c\color\messagelength\scientific calculator\arctan.h
+	<stdio.h>
+
+1462494555 c:\users\owner\desktop\computer campaign\c\color\messagelength\scientific calculator\tim.h
+	<stdio.h>
+
+1462436616 c:\users\owner\desktop\computer campaign\c\color\messagelength\scientific calculator\matrix_product.h
+
+1462501895 c:\users\owner\desktop\computer campaign\c\color\messagelength\scientific calculator\temperature.h
+	<stdio.h>
+
